@@ -1,14 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Hello+I'm+zixiang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&repeat=false&random=false&width=435&lines=%F0%9F%91%8BHi+there%2C+I'm+ZiXiang!)](https://git.io/typing-svg)
 
 **About me**
 
-- 💼 Student at [Tianjin Normal University](https://www.tjnu.edu.cn/)
+- 💼 Student at [Tianjin Normal University](https://www.tjnu.edu.cn/).
 
-- 💬 Ask me about anything [here](https://github.com/zixiangcode/zixiangcode/issues)
+- 💬 Ask me about anything [here](https://github.com/zixiangcode/zixiangcode/issues).
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zixiangcode&count_private=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" alt="zixiang's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zixiangcode&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /> |
-| ------------- | ------------- |
+- 📖 I am reading [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) and studying [MIT 6.S081](https://pdos.csail.mit.edu/6.828/2020/schedule.html) recently.
 
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@zixiangcode&layout=compact" />
-</div>
+
+<!-- Social Media -->
+<p align="left">
+  <a href="https://zixiangcode.top" target="_blank">
+    <img alt="Homepage" src="https://img.shields.io/badge/Homepage-%23FF69B4.svg?&style=flat&logo=font-awesome&logoColor=white"/>
+  </a>
+  <a href="https://wakatime.com/@zixiangcode" target="_blank">
+    <img alt="Wakatime" src="https://wakatime.com/badge/user/3dca576c-464b-4fee-8365-694a5ff7c178.svg"/>
+  </a>
+  <!-- <img alt="ViewCount" src="https://komarev.com/ghpvc?username=Aneureka&color=ff69b4"/> -->
+</p>
+
+<!-- Wakatime Stats -->
+<p align="center">
+  <a href="https://wakatime.com/@Aneureka">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?bg_color=00000000&layout=compact&hide_border=true&username=zixiangcode&range=last_7_days" alt="Wakatime Stats" />
+  </a>
+</p>
+
